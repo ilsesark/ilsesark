@@ -1,4 +1,15 @@
-### Hi there 👋
+# Nice to meet you! 🌻
+
+
+
+🌼   Ilse, 23.
+
+🌼   Oulu, Finland.
+
+🌼   Infromation Processsing Science university student.
+
+🌼   Part-time test automation developer.
+
 
 <!--
 **ilsesark/ilsesark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
