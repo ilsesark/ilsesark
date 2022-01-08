@@ -6,9 +6,9 @@
 
 🌼   Oulu, Finland.
 
-🌼   Infromation Processsing Science university student.
+🌼   Infromation Processsing Science university student, working on my master's degree.
 
-🌼   Part-time test automation developer.
+🌼   Thesis worker, test automation developer.
 
 
 <!--
