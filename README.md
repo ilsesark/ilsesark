@@ -2,13 +2,12 @@
 
 
 
-🌼   Ilse, 23.
+🌼   Ilse, 25.
 
-🌼   Oulu, Finland.
+🌼   Rovaniemi, Finland.
 
-🌼   Infromation Processsing Science university student, working on my master's degree.
+🌼   ✨ Into testing and test automation ✨
 
-🌼   Thesis worker, test automation developer.
 
 
 <!--
